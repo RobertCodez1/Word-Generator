@@ -1,6 +1,6 @@
 {
     "name": "new-words",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "An easy to use Random Word Generation Module ",
     "main": "index.js",
     "scripts": {
@@ -10,5 +10,21 @@
     "license": "ISC",
     "dependencies": {
         "axios": "^0.26.1"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RobertCodez1/Word-Generator"
+    },
+    "keywords": [
+        "word-generator",
+        "word",
+        "generator",
+        "random-word-generator",
+        "random",
+        "new-word",
+        "new-words",
+        "axios",
+        "random-words",
+        "random-word"
+    ]
 }
